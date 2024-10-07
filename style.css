@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(58, 58, 58);
+    display: flex;
+    margin: auto;
+    align-content: center;
+}
+img {
+    max-height: 56vw;
+    border: 2px solid red;
+    border-radius: 20px;
+    margin: 1vw;
+}
+
+a {
+    font-size: xx-large;
+    margin: auto;
+    color: white;
+}
